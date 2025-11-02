@@ -7,11 +7,11 @@
     <bool name="config_showNavigationBar">true</bool>
     <bool name="config_supportDoubleTapWake">false</bool>
 
-    <dimen name="navigation_bar_height">36dp</dimen>
-    <dimen name="navigation_bar_height_landscape">36dp</dimen>
+    <dimen name="navigation_bar_height">35dp</dimen>
+    <dimen name="navigation_bar_height_landscape">35dp</dimen>
     <dimen name="rounded_corner_radius">10dp</dimen>
-    <dimen name="status_bar_height_default">27dp</dimen>
-    <dimen name="status_bar_height_portrait">27dp</dimen>
+    <dimen name="status_bar_height_default">35dp</dimen>
+    <dimen name="status_bar_height_portrait">35dp</dimen>
 
     <integer name="config_screenBrightnessDoze">100</integer>
 
